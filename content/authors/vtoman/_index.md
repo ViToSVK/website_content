@@ -10,16 +10,16 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Software Engineer
 # of Formal Methods
 
 # Organizations/Affiliations
 organizations:
-- name: IST Austria
-  url: "https://ist.ac.at/en/home/"
+- name: Google
+  url: "https://www.google.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD at IST Austria, research interests include formal methods and machine learning.
+bio: Software Engineer at Google
 
 interests:
 - Verification
@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Formal Methods
     institution: IST Austria
-    year: 2016-present
+    year: 2021
   - course: Mgr in Computer Science
     institution: Masaryk University Brno
     year: 2016
@@ -75,14 +75,23 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in Formal Methods (Computer Science) at
+I am a Software Engineer at
+<a href="https://www.google.com/" target="_blank">Google</a>.
+I am part of the
+<a href="https://www.google.com/safesearch" target="_blank">SafeSearch</a>
+team, we work on algorithms to hide undesired explicit content in Search results.
+
+I did my PhD in Formal Methods (Computer Science) at
 <a href="https://ist.ac.at/en/home/" target="_blank">IST Austria</a>.
-My PhD advisor is
+My PhD advisor was
 <a href="https://pub.ist.ac.at/~kchatterjee/" target="_blank">Krishnendu Chatterjee</a>.
-My PhD topic is verification of concurrent programs.
+My PhD topic was verification of concurrent programs.
 
-In summers 2018 and 2019 I interned at Google Research Mountain View,
-working on machine learning in higher-order theorem proving.
+I was a three-time research intern at Google, twice in Mountain View
+and once in Zürich.
 
-In summer 2020 I interned at Google Research Zürich,
-in the area of on-device machine learning.
+# In summers 2018 and 2019 I interned at Google Research Mountain View,
+# working on machine learning in higher-order theorem proving.
+
+# In summer 2020 I interned at Google Research Zürich,
+# working on machine learning in music.

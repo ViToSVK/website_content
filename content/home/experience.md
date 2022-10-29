@@ -34,17 +34,26 @@ date_format = "Jan 2006"
 #  """
 
 [[experience]]
+  title = "Software Engineer"
+  company = "Google"
+  company_url = ""
+  location = "Zürich, Switzerland"
+  date_start = "2021-11-01"
+  date_end = ""
+  description = """SafeSearch"""
+
+[[experience]]
   title = "Research Intern"
-  company = "Google Research"
+  company = "Google"
   company_url = ""
   location = "Zürich, Switzerland"
   date_start = "2020-08-01"
   date_end = "2020-11-08"
-  description = """On­-Device Machine Learning"""
+  description = """Machine Learning in Music"""
 
 [[experience]]
   title = "Research Intern"
-  company = "Google Research"
+  company = "Google"
   company_url = ""
   location = "Mountain View, California"
   date_start = "2019-07-15"
@@ -52,12 +61,12 @@ date_format = "Jan 2006"
   description = """Machine Learning in Higher-­Order Theorem Proving"""
 
 [[experience]]
-title = "Research Intern"
-company = "Google Research"
-company_url = ""
-location = "Mountain View, California"
-date_start = "2018-07-09"
-date_end = "2018-10-12"
-description = """Machine Learning in Higher-­Order Theorem Proving"""
+  title = "Research Intern"
+  company = "Google"
+  company_url = ""
+  location = "Mountain View, California"
+  date_start = "2018-07-09"
+  date_end = "2018-10-12"
+  description = """Machine Learning in Higher-­Order Theorem Proving"""
 
 +++
