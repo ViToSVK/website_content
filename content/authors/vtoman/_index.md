@@ -86,12 +86,6 @@ I did my PhD in Formal Methods (Computer Science) at
 My PhD advisor was
 <a href="https://pub.ist.ac.at/~kchatterjee/" target="_blank">Krishnendu Chatterjee</a>.
 My PhD topic was verification of concurrent programs.
-
-I was a three-time research intern at Google, twice in Mountain View
+During my PhD I interned three times at Google, twice in Mountain View
 and once in Zürich.
 
-# In summers 2018 and 2019 I interned at Google Research Mountain View,
-# working on machine learning in higher-order theorem proving.
-
-# In summer 2020 I interned at Google Research Zürich,
-# working on machine learning in music.
