@@ -12,7 +12,7 @@ authors:
 - Viktor Toman
 tags: []
 categories: []
-date: '2021-01-01'
+date: '2021-10-15'
 lastmod: 2022-10-29T21:49:09+02:00
 featured: false
 draft: false
@@ -32,12 +32,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-10-29T19:49:08.996061Z'
-publication_types:
-- '2'
+publication_types: ["1"]
 abstract: ''
-publication: '*Proc. ACM Program. Lang.*'
-doi: 10.1145/3485541
-links:
-- name: URL
-  url: https://doi.org/10.1145/3485541
+publication: '*OOPSLA -- Object-Oriented Programming, Systems, Languages and Applications*'
+url_pdf: "https://arxiv.org/pdf/2011.11763.pdf"
+doi: "10.1145/3485541"
 ---

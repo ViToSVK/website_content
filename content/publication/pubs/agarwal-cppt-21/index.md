@@ -12,7 +12,7 @@ authors:
 - Viktor Toman
 tags: []
 categories: []
-date: '2021-01-01'
+date: '2021-07-15'
 lastmod: 2022-10-29T21:49:09+02:00
 featured: false
 draft: false
@@ -32,12 +32,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-10-29T19:49:09.186710Z'
-publication_types:
-- '1'
+publication_types: ["1"]
 abstract: ''
-publication: '*CAV*'
-doi: 10.1007/978-3-030-81685-8_16
-links:
-- name: URL
-  url: https://doi.org/10.1007/978-3-030-81685-8_16
+publication: '*CAV -- Computer Aided Verification*'
+url_pdf: "https://arxiv.org/pdf/2105.06424.pdf"
+doi: "10.1007/978-3-030-81685-8_16"
 ---
